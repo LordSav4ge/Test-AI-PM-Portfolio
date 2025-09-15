@@ -1,6 +1,6 @@
 # Deployment
 
-**Live URL:** [https://<your-app-name>-<your-username>.streamlit.app](https://test-ai-pm-portfolio-rnp59wunjlfpjzy8ojsjdj.streamlit.app/)
+**Live URL:** test-ai-pm-portfolio-mqhyd3rghuapp539c3zuu3t
 
 ## How it’s deployed
 - Hosting: Streamlit Community Cloud
